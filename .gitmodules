@@ -1,0 +1,3 @@
+[submodule "SalzAGarminDataFieldShare"]
+	path = SalzAGarminDataFieldShare
+	url = git@github.com:krakentom/SalzAGarminDataFieldShare.git
